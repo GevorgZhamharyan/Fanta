@@ -1,0 +1,13 @@
+C:\Users\Asus\source\repos\Fantastic\Fantastic\bin\Debug\netcoreapp3.1\Fantastic.exe
+C:\Users\Asus\source\repos\Fantastic\Fantastic\bin\Debug\netcoreapp3.1\Fantastic.deps.json
+C:\Users\Asus\source\repos\Fantastic\Fantastic\bin\Debug\netcoreapp3.1\Fantastic.runtimeconfig.json
+C:\Users\Asus\source\repos\Fantastic\Fantastic\bin\Debug\netcoreapp3.1\Fantastic.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Fantastic\Fantastic\bin\Debug\netcoreapp3.1\Fantastic.dll
+C:\Users\Asus\source\repos\Fantastic\Fantastic\bin\Debug\netcoreapp3.1\Fantastic.pdb
+C:\Users\Asus\source\repos\Fantastic\Fantastic\obj\Debug\netcoreapp3.1\Fantastic.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Fantastic\Fantastic\obj\Debug\netcoreapp3.1\Fantastic.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Fantastic\Fantastic\obj\Debug\netcoreapp3.1\Fantastic.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Fantastic\Fantastic\obj\Debug\netcoreapp3.1\Fantastic.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Fantastic\Fantastic\obj\Debug\netcoreapp3.1\Fantastic.dll
+C:\Users\Asus\source\repos\Fantastic\Fantastic\obj\Debug\netcoreapp3.1\Fantastic.pdb
+C:\Users\Asus\source\repos\Fantastic\Fantastic\obj\Debug\netcoreapp3.1\Fantastic.genruntimeconfig.cache
